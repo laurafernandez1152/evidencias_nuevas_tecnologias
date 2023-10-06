@@ -1,0 +1,11 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Documentación
+
+nombres: Laura Cristina Fernández Villa
+submodulo: Nuevas Tecnologías
+periodo: 2023-2
+url_foto: https://firebasestorage.googleapis.com/v0/b/loginfbauthbell.appspot.com/o/foto%2FWhatsApp%20Image%202023-10-05%20at%208.26.26%20PM.jpeg?alt=media&token=dda5f461-121d-422f-993f-f669e359ecb4
+
